@@ -15,6 +15,8 @@ All services communicate **asynchronously via Kafka topics**, showcasing scalabi
 ## 🧠 Why Kafka?
 
 Apache Kafka is a **distributed event streaming platform** used for building **real-time data pipelines** and **event-driven systems**.
+Here My Medium Article To Simple Word Explaintion Of Kafka Concept -
+https://medium.com/@harishnemade100/kafka-explained-simply-brokers-topics-partitions-replicas-in-plain-english-5f3c360171d3
 
 ### Kafka solves:
 
